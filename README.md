@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences: [resume](https://drive.google.com/file/d/1V5d4NYY4BVyr92NECBFGIHDRlQ2mdeh4/view?usp=sharing)
 
-- ⚡ Fun fact: **I love weightlifting and soccer (Hala Madrid!)**
+- ⚡ Fun fact: **I love weightlifting and soccer (¡Hala Madrid!)**
 
 ## 🤝 Socials
 <h3 align="left">Connect with me:</h3>
