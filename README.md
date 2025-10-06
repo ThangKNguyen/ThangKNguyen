@@ -11,7 +11,7 @@
 
 - 👨‍💻 Check out my personal portfolio here: [https://thangknguyen.com/](https://thangknguyen.com/)
 
-- 📫 How to reach me: **thangknguyensj@gmail.com**
+- 📫 How to reach me: thangknguyensj@gmail.com
 
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1V5d4NYY4BVyr92NECBFGIHDRlQ2mdeh4/view?usp=sharing)
 
