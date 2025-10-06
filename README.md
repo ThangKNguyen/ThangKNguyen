@@ -5,7 +5,7 @@
 
 ## 😎 About
 
-- 🔭 I’m currently working at **Fetch.ai as a Software Engineer Intern**
+-  🔭 I’m currently working at [**Fetch.ai**](https://fetch.ai/) as a Software Engineer Intern
 
 - 🌱 I’m currently learning and building **with AI agents!**
 
