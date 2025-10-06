@@ -23,8 +23,6 @@
 <a href="https://linkedin.com/in/thang-nguyen-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thang-nguyen-k" height="30" width="40" /></a>
 </p>
 
-# 💻 Tech Stack
-
 ## 🧑‍💻 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
