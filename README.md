@@ -13,7 +13,7 @@
 
 - 📫 How to reach me: **thangknguyensj@gmail.com**
 
-- 📄 Know about my experiences [insert resume here](insert resume here)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1V5d4NYY4BVyr92NECBFGIHDRlQ2mdeh4/view?usp=sharing)
 
 - ⚡ Fun fact: **I love weightlifting and soccer (Hala Madrid!)**
 
