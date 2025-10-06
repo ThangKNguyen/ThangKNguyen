@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning and building **with AI agents!**
 
-- 👨‍💻 Check out my personal portfolio here: [https://thangknguyen.com/](https://thangknguyen.com/)
+- 👨‍💻 Check out my personal portfolio here: [https://thangknguyen.com](https://thangknguyen.com/)
 
 - 📫 How to reach me: thangknguyensj@gmail.com
 
