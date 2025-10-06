@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thangknguyen&label=Profile%20views&color=0e75b6&style=flat" alt="thangknguyen" /> </p>
 
-- 🔭 I’m currently working at **Fetch.AI as a Software Engineer Intern**
+## 😎 About
+
+- 🔭 I’m currently working at **Fetch.aI as a Software Engineer Intern**
 
 - 🌱 I’m currently learning and building **with AI agents!**
 
@@ -15,6 +17,7 @@
 
 - ⚡ Fun fact: **I love weightlifting and soccer (Hala Madrid!)**
 
+## 🤝 Socials
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/thang-nguyen-k" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thang-nguyen-k" height="30" width="40" /></a>
@@ -53,5 +56,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white)
 
+## 🔥 Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thangknguyen&show_icons=true&locale=en&layout=compact" alt="thangknguyen" /></p>
 
